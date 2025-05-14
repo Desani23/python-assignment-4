@@ -1,0 +1,5 @@
+1: wooden chair
+2: modern wooden chair
+3: wooden table
+4: wooden bench
+5: wooden stool
